@@ -1,0 +1,314 @@
+[
+    {
+        "id": 0,
+        "index": 1,
+        "number": 1.0,
+        "title": "Administration, business and management",
+        "children": []
+    },
+    {
+        "id": 0,
+        "index": 1,
+        "number": 2.0,
+        "title": "Financial services",
+        "children": [
+            {
+                "id": 0,
+                "index": 2,
+                "number": 2.1,
+                "title": "Loan officer",
+                "children": []
+            },            
+            {
+                "id": 0,
+                "index": 2,
+                "number": 2.2,
+                "title": "Operative",
+                "children": []
+            },            
+            {
+                "id": 0,
+                "index": 2,
+                "number": 2.3,
+                "title": "Branch Manager",
+                "children": []
+            },            
+            {
+                "id": 0,
+                "index": 2,
+                "number": 2.4,
+                "title": "External control",
+                "children": []
+            },            
+            {
+                "id": 0,
+                "index": 2,
+                "number": 2.5,
+                "title": "Leasing",
+                "children": []
+            },            
+            {
+                "id": 0,
+                "index": 2,
+                "number": 2.6,
+                "title": "Problem loans",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": 0,
+        "index": 1,
+        "number": 3.0,
+        "title": "Retail and customer services",
+        "children": []
+    },
+    {
+        "id": 0,
+        "index": 1,
+        "number": 4.0,
+        "title": "Engineering",
+        "children": []
+    },
+    {
+        "id": 0,
+        "index": 1,
+        "number": 5.0,
+        "title": "Computing and IT",
+        "children": [
+            {
+                "id": 0,
+                "index": 2,
+                "number": 5.1,
+                "title": "Web development",
+                "children": []
+            },
+            {
+                "id": 0,
+                "index": 2,
+                "number": 5.2,
+                "title": "Mobile development",
+                "children": []
+            },
+            {
+                "id": 0,
+                "index": 2,
+                "number": 5.3,
+                "title": "Network",
+                "children": []
+            },
+            {
+                "id": 0,
+                "index": 2,
+                "number": 5.4,
+                "title": "Development",
+                "children": []
+            },
+            {
+                "id": 0,
+                "index": 2,
+                "number": 5.5,
+                "title": "Help desk",
+                "children": []
+            },
+            {
+                "id": 0,
+                "index": 2,
+                "number": 5.6,
+                "title": "IT security",
+                "children": []
+            },
+            {
+                "id": 0,
+                "index": 2,
+                "number": 5.7,
+                "title": "System administrator",
+                "children": []
+            },
+            {
+                "id": 0,
+                "index": 2,
+                "number": 5.8,
+                "title": "QA tester",
+                "children": []
+            },
+            {
+                "id": 0,
+                "index": 2,
+                "number": 5.9,
+                "title": "Head of IT",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": 0,
+        "index": 1,
+        "number": 6.0,
+        "title": "Marketing and advertising, print and publishing",
+        "children": []
+    },
+    {
+        "id": 0,
+        "index": 1,
+        "number": 7.0,
+        "title": "Transport, distribution and logistics",
+        "children": [
+            {
+                "id": 0,
+                "index": 2,
+                "number": 7.1,
+                "title": "Driver",
+                "children": []
+            },
+            {
+                "id": 0,
+                "index": 2,
+                "number": 7.2,
+                "title": "Warehouseman",
+                "children": []
+            },
+            {
+                "id": 0,
+                "index": 2,
+                "number": 7.3,
+                "title": "Logistics",
+                "children": []
+            },
+            {
+                "id": 0,
+                "index": 2,
+                "number": 7.4,
+                "title": "Courier",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": 0,
+        "index": 1,
+        "number": 8.0,
+        "title": "Hospitality, catering and tourism",
+        "children": [
+            {
+                "id": 0,
+                "index": 2,
+                "number": 8.1,
+                "title": "Doctor",
+                "children": []
+            },
+            {
+                "id": 0,
+                "index": 2,
+                "number": 8.2,
+                "title": "Pharmacist",
+                "children": []
+            },
+            {
+                "id": 0,
+                "index": 2,
+                "number": 8.3,
+                "title": "Nurse",
+                "children": []
+            },
+            {
+                "id": 0,
+                "index": 2,
+                "number": 8.4,
+                "title": "Psychologist",
+                "children": []
+            },
+            {
+                "id": 0,
+                "index": 2,
+                "number": 8.5,
+                "title": "Dentist",
+                "children": []
+            },
+            {
+                "id": 0,
+                "index": 2,
+                "number": 8.6,
+                "title": "Laboratory assistant",
+                "children": []
+            },
+            {
+                "id": 0,
+                "index": 2,
+                "number": 8.7,
+                "title": "Medicine brother",
+                "children": []
+            },
+            {
+                "id": 0,
+                "index": 2,
+                "number": 8.8,
+                "title": "Medical representative",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": 0,
+        "index": 1,
+        "number": 9.0,
+        "title": "Education and training",
+        "children": []
+    },
+    {
+        "id": 0,
+        "index": 1,
+        "number": 10.0,
+        "title": "Legal and court services",
+        "children": []
+    },
+    {
+        "id": 0,
+        "index": 1,
+        "number": 11.0,
+        "title": "Facilities and property services",
+        "children": []
+    },
+    {
+        "id": 0,
+        "index": 1,
+        "number": 12.0,
+        "title": "Design, arts and crafts",
+        "children": []
+    },
+    {
+        "id": 0,
+        "index": 1,
+        "number": 13.0,
+        "title": "Healthcare",
+        "children": []
+    },
+    {
+        "id": 0,
+        "index": 1,
+        "number": 14.0,
+        "title": "Construction and building",
+        "children": []
+    },
+    {
+        "id": 0,
+        "index": 1,
+        "number": 15.0,
+        "title": "Security, uniformed and protective services",
+        "children": []
+    },
+    {
+        "id": 0,
+        "index": 1,
+        "number": 16.0,
+        "title": "Science, mathematics and statistics",
+        "children": []
+    },
+    {
+        "id": 0,
+        "index": 1,
+        "number": 17.0,
+        "title": "Manufacturing and production",
+        "children": []
+    }
+]
