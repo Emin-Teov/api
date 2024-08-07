@@ -1,28 +1,60 @@
-[
+[    
     {
         "id": 0,
-        "url": "https://videos.pexels.com/video-files/4994033/4994033-uhd_2560_1440_25fps.mp4",
-        "name": "Check",
-        "surname": "Martin",
-        "title": "Graphics Designer"
+        "url": "https://emin-teov.github.io/api/video/job_seeker_0.mp4",
+        "name": "James",
+        "surname": "Michael",
+        "title": "Manager"
+    },    {
+        "id": 0,
+        "url": "https://emin-teov.github.io/api/video/job_seeker_1.mp4",
+        "name": "Susan",
+        "surname": "Jes",
+        "title": "Chemical Engineer"
+    },    {
+        "id": 0,
+        "url": "https://emin-teov.github.io/api/video/job_seeker_2.mp4",
+        "name": "Mary",
+        "surname": "Patricia",
+        "title": "Chemical Engineer"
+    },    {
+        "id": 0,
+        "url": "https://emin-teov.github.io/api/video/job_seeker_3.mp4",
+        "name": "Thomas",
+        "surname": "Christopher",
+        "title": "Web Developer"
     },
     {
         "id": 0,
-        "url": "https://videos.pexels.com/video-files/4962719/4962719-uhd_256"id":0_144"id":0_25fps.mp4",
-        "name": "Anna",
-        "surname": "Ova",
-        "title": "IT Developer"
-    },
-    {
-        "id": 0,
-        "url": "https://videos.pexels.com/video-files/4962731/4962731-uhd_256'id': 0_144'id': 0_25fps.mp4",
+        "url": "https://emin-teov.github.io/api/video/job_seeker_4.mp4",
         "name": "Irina",
         "surname": "Sena",
         "title": "Engineer"
     },
     {
         "id": 0,
-        "url": "https://videos.pexels.com/video-files/3253737/3253737-uhd_2560_1440_25fps.mp4",
+        "url": "https://emin-teov.github.io/api/video/job_seeker_5.mp4",
+        "name": "Daniel",
+        "surname": "Matthew",
+        "title": "Auditor"
+    },
+    {
+        "id": 0,
+        "url": "https://emin-teov.github.io/api/video/job_seeker_6.mp4",
+        "name": "Anna",
+        "surname": "Ova",
+        "title": "IT Developer"
+    },
+    {
+        "id": 0,
+        "url": "https://emin-teov.github.io/api/video/job_seeker_7.mp4",
+        "name": "Check",
+        "surname": "Martin",
+        "title": "Graphics Designer"
+    },
+    {
+        "id": 0,
+        "url": "https://emin-teov.github.io/api/video/job_seeker_8.mp4",
         "name": "Antony",
         "surname": "Carters",
         "title": "Manager"
