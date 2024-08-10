@@ -1,6 +1,7 @@
 [
     {
         "id": 0,
+        "employer_id": 0,
         "title": "Graphics Designer",
         "ceo": "GOED.MMC",
         "url": "",
@@ -8,6 +9,7 @@
     },
     {
         "id": 0,
+        "employer_id": 0,
         "title": "WordPress Expertise",
         "ceo": "GOED.MMC",
         "url": "",
@@ -15,6 +17,7 @@
     },
     {
         "id": 0,
+        "employer_id": 0,
         "title": "Head of Data Technology",
         "ceo": "GOED.MMC",
         "url": "",
