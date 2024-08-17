@@ -1,53 +1,23 @@
 [    
     {
         "id": 1,
-        "name": "Richard",
-        "surname": "Sanchez",
-        "title": "Product Designer"
+        "name": "Ruslana",
+        "surname": "Qambayeva",
+        "title": "Student"
     },    {
         "id": 2,
-        "name": "Harumi",
-        "surname": "Kobayashi",
-        "title": "BSDR AR(RT)"
+        "name": "Firuza",
+        "surname": "Agayeva",
+        "title": "Professional Model"
     },    {
         "id": 3,
-        "name": "Dani",
-        "surname": "Martinez",
-        "title": "General Surgeon"
+        "name": "Hakhan",
+        "surname": "Erol",
+        "title": "Financial Advisor"
     },    {
         "id": 4,
-        "name": "Jonathan",
-        "surname": "Patterson",
-        "title": "Graphics Designer"
-    },
-    {
-        "id": 5,
-        "name": "Isabel",
-        "surname": "Schumacher",
+        "name": "Samira",
+        "surname": "Aliyeva",
         "title": "Sales Representative"
-    },
-    {
-        "id": 6,
-        "name": "Sebastian",
-        "surname": "Bennett",
-        "title": "Real Estate Agent"
-    },
-    {
-        "id": 7,
-        "name": "Isabel",
-        "surname": "Mercado",
-        "title": "Executive Secretary"
-    },
-    {
-        "id": 8,
-        "name": "Muhammad",
-        "surname": "Patel",
-        "title": "Digital Marketing"
-    },
-    {
-        "id": 9,
-        "name": "Jamie",
-        "surname": "Chastain",
-        "title": "Project Manager"
     }
 ]
