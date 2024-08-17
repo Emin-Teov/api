@@ -1,60 +1,51 @@
 [    
     {
         "id": 1,
-        "url": "https://emin-teov.github.io/api/video/job_seeker_0.mp4",
         "name": "Richard",
         "surname": "Sanchez",
         "title": "Product Designer"
     },    {
         "id": 2,
-        "url": "https://emin-teov.github.io/api/video/job_seeker_1.mp4",
         "name": "Harumi",
         "surname": "Kobayashi",
         "title": "BSDR AR(RT)"
     },    {
         "id": 3,
-        "url": "https://emin-teov.github.io/api/video/job_seeker_2.mp4",
         "name": "Dani",
         "surname": "Martinez",
         "title": "General Surgeon"
     },    {
         "id": 4,
-        "url": "https://emin-teov.github.io/api/video/job_seeker_3.mp4",
         "name": "Jonathan",
         "surname": "Patterson",
         "title": "Graphics Designer"
     },
     {
         "id": 5,
-        "url": "https://emin-teov.github.io/api/video/job_seeker_4.mp4",
         "name": "Isabel",
         "surname": "Schumacher",
         "title": "Sales Representative"
     },
     {
         "id": 6,
-        "url": "https://emin-teov.github.io/api/video/job_seeker_5.mp4",
         "name": "Sebastian",
         "surname": "Bennett",
         "title": "Real Estate Agent"
     },
     {
         "id": 7,
-        "url": "https://emin-teov.github.io/api/video/job_seeker_6.mp4",
         "name": "Isabel",
         "surname": "Mercado",
         "title": "Executive Secretary"
     },
     {
         "id": 8,
-        "url": "https://emin-teov.github.io/api/video/job_seeker_7.mp4",
         "name": "Muhammad",
         "surname": "Patel",
         "title": "Digital Marketing"
     },
     {
         "id": 9,
-        "url": "https://emin-teov.github.io/api/video/job_seeker_8.mp4",
         "name": "Jamie",
         "surname": "Chastain",
         "title": "Project Manager"
