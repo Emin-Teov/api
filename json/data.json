@@ -356,21 +356,25 @@
             "id": 1,
             "name": "Ruslana",
             "surname": "Qambayeva",
+            "freelancer": false,
             "title": "Student"
         },    {
             "id": 2,
             "name": "Firuza",
             "surname": "Agayeva",
+            "freelancer": false,
             "title": "Professional Model"
         },    {
             "id": 3,
             "name": "Hakhan",
             "surname": "Erol",
+            "freelancer": false,
             "title": "Financial Advisor"
         },    {
             "id": 4,
             "name": "Samira",
             "surname": "Aliyeva",
+            "freelancer": false,
             "title": "Sales Representative"
         }
     ],
