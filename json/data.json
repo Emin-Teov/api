@@ -351,69 +351,40 @@
         "title": "Uzbekistan"
         }
     ],
-    "job_seekers": [    
+    "job_seekers": [
         {
             "id": 1,
             "name": "Ruslana",
             "surname": "Qambayeva",
-            "freelancer": false,
             "title": "Student"
         },    {
             "id": 2,
             "name": "Firuza",
             "surname": "Agayeva",
-            "freelancer": false,
             "title": "Professional Model"
         },    {
             "id": 3,
             "name": "Hakhan",
             "surname": "Erol",
-            "freelancer": false,
             "title": "Financial Advisor"
         },    {
             "id": 4,
             "name": "Samira",
             "surname": "Aliyeva",
-            "freelancer": false,
             "title": "Sales Representative"
         }
     ],
     "offers": [
         {
             "id": 2,
-            "employer_id": 2,
-            "title": "Graphics Designer",
-            "ceo": "GOED.MMC",
-            "video": false,
-            "description": "Design and create engaging graphics for various social media platforms (Facebook, Instagram, Twitter, LinkedIn, etc.). Develop and maintain a consistent visual style and brand identity across all social media channels. Collaborate with the marketing team to create graphics for campaigns, promotions, and other marketing materials. Stay up-to-date with the latest design trends and social media best practices. Manage multiple projects simultaneously while meeting deadlines. Create stories for social media. Provide creative input and contribute ideas for social media strategies and campaigns."
+            "employer_id": 3,
+            "title": "Head of Data Technology",
+            "ceo": "MOOI.MMC",
+            "video": true,
+            "description": "Leads the full product management lifecycle of a new suite of technologies and oversees the team responsible for delivering it. This high-profile role involves working with business leaders and partners across the organization, including C-level executives. Strong business and technology experience in the finance and/or retail domain is essential for success. Oversees the data technology roadmaps of assets and drives the adoption of cutting-edge technologies across the Group, aligned with the enablement mission of the PASHA Holding Data Office. Utilizes experience in Agile organizations to lead, develop, and inspire an Agile delivery team of data engineers, architects, devops engineers’ data operations engineers and data analysts. Foster a culture of innovation and excellence. Mentors and develops data technology team members. Develops and manages the Holding’s data technology roadmap, including requirements, resources, time, cost, quality, risks, and communications, ensuring alignment with the strategic objectives of companies within the Group"
         },
         {
             "id": 3,
-            "employer_id": 2,
-            "title": "WordPress Expertise",
-            "ceo": "GOED.MMC",
-            "video": false,
-            "description": "Design and develop responsive websites using WordPress. Customize WordPress themes and plugins to meet project requirements. Ensure the website design is visually appealing, user-friendly, and aligns with brand guidelines. Collaborate with the marketing team to create and implement design elements that enhance user experience. Maintain and update existing websites, ensuring they are optimized for performance and security. Troubleshoot and resolve website issues as they arise. Stay up to date with the latest web design trends, tools, and technologies."
-        },
-        {
-            "id": 4,
-            "employer_id": 2,
-            "title": "Head of Data Technology",
-            "ceo": "GOED.MMC",
-            "video": false,
-            "description": "Leads the full product management lifecycle of a new suite of technologies and oversees the team responsible for delivering it. This high-profile role involves working with business leaders and partners across the organization, including C-level executives. Strong business and technology experience in the finance and/or retail domain is essential for success. Oversees the data technology roadmaps of assets and drives the adoption of cutting-edge technologies across the Group, aligned with the enablement mission of the PASHA Holding Data Office. Utilizes experience in Agile organizations to lead, develop, and inspire an Agile delivery team of data engineers, architects, devops engineers’ data operations engineers and data analysts. Foster a culture of innovation and excellence. Mentors and develops data technology team members. Develops and manages the Holding’s data technology roadmap, including requirements, resources, time, cost, quality, risks, and communications, ensuring alignment with the strategic objectives of companies within the Group"
-        },
-        
-        {
-            "id": 5,
-            "employer_id": 3,
-            "title": "Head of Data Technology",
-            "ceo": "MOOI.MMC",
-            "video": true,
-            "description": "Leads the full product management lifecycle of a new suite of technologies and oversees the team responsible for delivering it. This high-profile role involves working with business leaders and partners across the organization, including C-level executives. Strong business and technology experience in the finance and/or retail domain is essential for success. Oversees the data technology roadmaps of assets and drives the adoption of cutting-edge technologies across the Group, aligned with the enablement mission of the PASHA Holding Data Office. Utilizes experience in Agile organizations to lead, develop, and inspire an Agile delivery team of data engineers, architects, devops engineers’ data operations engineers and data analysts. Foster a culture of innovation and excellence. Mentors and develops data technology team members. Develops and manages the Holding’s data technology roadmap, including requirements, resources, time, cost, quality, risks, and communications, ensuring alignment with the strategic objectives of companies within the Group"
-        },
-        {
-            "id": 6,
             "employer_id": 3,
             "title": "Graphics Designer",
             "ceo": "MOOI.MMC",
@@ -421,12 +392,29 @@
             "description": "Design and create engaging graphics for various social media platforms (Facebook, Instagram, Twitter, LinkedIn, etc.). Develop and maintain a consistent visual style and brand identity across all social media channels. Collaborate with the marketing team to create graphics for campaigns, promotions, and other marketing materials. Stay up-to-date with the latest design trends and social media best practices. Manage multiple projects simultaneously while meeting deadlines. Create stories for social media. Provide creative input and contribute ideas for social media strategies and campaigns."
         },
         {
-            "id": 7,
+            "id": 4,
             "employer_id": 3,
             "title": "Chef",
             "ceo": "MOOI.MMC",
             "video": true,
             "description": "Prepare existing or future guest food orders under the direct supervision of a supervisor or independently. To ensure the quality of the prepared food, that they meet the required standards. To start work, place ready-made semi-finished products, necessary tools and equipment in the designated work area. Check the cleanliness of all tools, equipment and supplies. Ensuring everything is up to standard. Controlling the meal preparation schedule, prioritizing and executing important tasks during the day. Informing the direct supervisor about the lack of necessary food and supplies for the daily preparation of food. Products and their duration must be constantly monitored. To ensure that the prepared food is of high quality and healthy, and that it meets the required hygienic standards."
+        }
+    ],
+    "freelancer": [
+        {
+            "id": 1,
+            "user": "Avery Davis",
+            "title": "Nurse"
+        },
+        {
+            "id": 2,
+            "user": "Handyman Service",
+            "title": "Welder"
+        },
+        {
+            "id": 3,
+            "user": "Really Great Site",
+            "title": "Carpenter"
         }
     ]
 }
