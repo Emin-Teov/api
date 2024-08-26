@@ -385,9 +385,9 @@
         },
         {
             "id": 3,
-            "employer_id": 2,
+            "employer_id": 3,
             "title": "Graphics Designer",
-            "ceo": "GOED.MMC",
+            "ceo": "MOOI.MMC",
             "video": true,
             "description": "Design and create engaging graphics for various social media platforms (Facebook, Instagram, Twitter, LinkedIn, etc.). Develop and maintain a consistent visual style and brand identity across all social media channels. Collaborate with the marketing team to create graphics for campaigns, promotions, and other marketing materials. Stay up-to-date with the latest design trends and social media best practices. Manage multiple projects simultaneously while meeting deadlines. Create stories for social media. Provide creative input and contribute ideas for social media strategies and campaigns."
         },
@@ -415,6 +415,23 @@
             "id": 3,
             "user": "Really Great Site",
             "title": "Carpenter"
+        }
+    ],
+    "talents": [
+        {
+            "id": 1,
+            "user": "Drum Beats",
+            "title": "Drummer"
+        },
+        {
+            "id": 2,
+            "user": "Olivia Wilson",
+            "title": "Dancer"
+        },
+        {
+            "id": 3,
+            "user": "HIP HOP DANCERS",
+            "title": "Dance group"
         }
     ]
 }
