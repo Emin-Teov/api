@@ -6,6 +6,7 @@
             "index": 1,
             "number": 1.0,
             "title": "Administration, business and management",
+            "code": "admin",
             "children": []
         },
         {
@@ -13,12 +14,14 @@
             "index": 1,
             "number": 2.0,
             "title": "Financial services",
+            "code": "financial",
             "children": [
                 {
                     "id": 0,
                     "index": 2,
                     "number": 2.1,
                     "title": "Loan officer",
+                    "code": "loan",
                     "children" : []
                 },            
                 {
@@ -26,6 +29,7 @@
                     "index": 2,
                     "number": 2.2,
                     "title": "Operative",
+                    "code": "operative",
                     "children" : []
                 },            
                 {
@@ -33,6 +37,7 @@
                     "index": 2,
                     "number": 2.3,
                     "title": "Branch Manager",
+                    "code": "branch",
                     "children" : []
                 },            
                 {
@@ -40,6 +45,7 @@
                     "index": 2,
                     "number": 2.4,
                     "title": "External control",
+                    "code": "external_control",
                     "children" : []
                 },            
                 {
@@ -47,6 +53,7 @@
                     "index": 2,
                     "number": 2.5,
                     "title": "Leasing",
+                    "code": "leasing",
                     "children" : []
                 },            
                 {
@@ -54,6 +61,15 @@
                     "index": 2,
                     "number": 2.6,
                     "title": "Problem loans",
+                    "code": "problem_loans",
+                    "children" : []
+                },
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 2.7,
+                    "title": "Financial Advisor",
+                    "code": "financial_dvisor",
                     "children" : []
                 }
             ]
@@ -63,6 +79,7 @@
             "index": 1,
             "number": 3.0,
             "title": "Retail and customer services",
+            "code": "retail_customer",
             "children": []
         },
         {
@@ -70,6 +87,7 @@
             "index": 1,
             "number": 4.0,
             "title": "Engineering",
+            "code": "engineering",
             "children": []
         },
         {
@@ -77,12 +95,14 @@
             "index": 1,
             "number": 5.0,
             "title": "Computing and IT",
+            "code": "computing",
             "children": [
                 {
                     "id": 0,
                     "index": 2,
                     "number": 5.1,
                     "title": "Web development",
+                    "code": "web_development",
                     "children": []
                 },
                 {
@@ -90,6 +110,7 @@
                     "index": 2,
                     "number": 5.2,
                     "title": "Mobile development",
+                    "code": "mobile_development",
                     "children": []
                 },
                 {
@@ -97,6 +118,7 @@
                     "index": 2,
                     "number": 5.3,
                     "title": "Network",
+                    "code": "network",
                     "children": []
                 },
                 {
@@ -104,6 +126,7 @@
                     "index": 2,
                     "number": 5.4,
                     "title": "Development",
+                    "code": "development",
                     "children": []
                 },
                 {
@@ -111,6 +134,7 @@
                     "index": 2,
                     "number": 5.5,
                     "title": "Help desk",
+                    "code": "help_desk",
                     "children": []
                 },
                 {
@@ -118,6 +142,7 @@
                     "index": 2,
                     "number": 5.6,
                     "title": "IT security",
+                    "code": "it_security",
                     "children": []
                 },
                 {
@@ -125,6 +150,7 @@
                     "index": 2,
                     "number": 5.7,
                     "title": "System administrator",
+                    "code": "system_administrator",
                     "children": []
                 },
                 {
@@ -132,6 +158,7 @@
                     "index": 2,
                     "number": 5.8,
                     "title": "QA tester",
+                    "code": "qa_tester",
                     "children": []
                 },
                 {
@@ -139,6 +166,7 @@
                     "index": 2,
                     "number": 5.9,
                     "title": "Head of IT",
+                    "code": "head_it",
                     "children": []
                 }
             ]
@@ -148,6 +176,7 @@
             "index": 1,
             "number": 6.0,
             "title": "Marketing and advertising, print and publishing",
+            "code": "marketing_advertising_print",
             "children": []
         },
         {
@@ -155,12 +184,14 @@
             "index": 1,
             "number": 7.0,
             "title": "Transport, distribution and logistics",
+            "code": "transport_distribution_logistics",
             "children": [
                 {
                     "id": 0,
                     "index": 2,
                     "number": 7.1,
                     "title": "Driver",
+                    "code": "driver",
                     "children": []
                 },
                 {
@@ -168,6 +199,7 @@
                     "index": 2,
                     "number": 7.2,
                     "title": "Warehouseman",
+                    "code": "warehouseman",
                     "children": []
                 },
                 {
@@ -175,6 +207,7 @@
                     "index": 2,
                     "number": 7.3,
                     "title": "Logistics",
+                    "code": "logistics",
                     "children": []
                 },
                 {
@@ -182,6 +215,7 @@
                     "index": 2,
                     "number": 7.4,
                     "title": "Courier",
+                    "code": "courier",
                     "children": []
                 }
             ]
@@ -190,13 +224,15 @@
             "id": 0,
             "index": 1,
             "number": 8.0,
-            "title": "Hospitality, catering and tourism",
+            "title": "Healthcare",
+            "code": "healthcare",
             "children": [
                 {
                     "id": 0,
                     "index": 2,
                     "number": 8.1,
                     "title": "Doctor",
+                    "code": "doctor",
                     "children": []
                 },
                 {
@@ -204,6 +240,7 @@
                     "index": 2,
                     "number": 8.2,
                     "title": "Pharmacist",
+                    "code": "pharmacist",
                     "children": []
                 },
                 {
@@ -211,6 +248,7 @@
                     "index": 2,
                     "number": 8.3,
                     "title": "Nurse",
+                    "code": "nurse",
                     "children": []
                 },
                 {
@@ -218,6 +256,7 @@
                     "index": 2,
                     "number": 8.4,
                     "title": "Psychologist",
+                    "code": "psychologist",
                     "children": []
                 },
                 {
@@ -225,6 +264,7 @@
                     "index": 2,
                     "number": 8.5,
                     "title": "Dentist",
+                    "code": "dentist",
                     "children": []
                 },
                 {
@@ -232,6 +272,7 @@
                     "index": 2,
                     "number": 8.6,
                     "title": "Laboratory assistant",
+                    "code": "laboratory_assistant",
                     "children": []
                 },
                 {
@@ -239,6 +280,7 @@
                     "index": 2,
                     "number": 8.7,
                     "title": "Medicine brother",
+                    "code": "medicine_brother",
                     "children": []
                 },
                 {
@@ -246,6 +288,7 @@
                     "index": 2,
                     "number": 8.8,
                     "title": "Medical representative",
+                    "code": "medical_representative",
                     "children": []
                 }
             ]
@@ -255,6 +298,7 @@
             "index": 1,
             "number": 9.0,
             "title": "Education and training",
+            "code": "education_training",
             "children": []
         },
         {
@@ -262,6 +306,7 @@
             "index": 1,
             "number": 10.0,
             "title": "Legal and court services",
+            "code": "legal_court",
             "children": []
         },
         {
@@ -269,6 +314,7 @@
             "index": 1,
             "number": 11.0,
             "title": "Facilities and property services",
+            "code": "facilities_property",
             "children": []
         },
         {
@@ -276,42 +322,187 @@
             "index": 1,
             "number": 12.0,
             "title": "Design, arts and crafts",
-            "children": []
+            "code": "design_arts_crafts",
+            "children": [
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 12.1,
+                    "title": "Graphic designer",
+                    "code": "graphic_designer",
+                    "children": []
+                },
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 12.2,
+                    "title": "Interior designer",
+                    "code": "interior_designer",
+                    "children": []
+                }
+            ]
         },
         {
             "id": 0,
             "index": 1,
             "number": 13.0,
-            "title": "Healthcare",
-            "children": []
+            "title": "Marketing and Sales",
+            "code": "marketing_sales",
+            "children": [
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 13.1,
+                    "title": "Content manager",
+                    "code": "content_manager",
+                    "children": []
+                },
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 13.2,
+                    "title": "Seller",
+                    "code": "seller",
+                    "children": []
+                },
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 13.3,
+                    "title": "Sales representative",
+                    "code": "sales_representative",
+                    "children": []
+                },
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 13.4,
+                    "title": "SMM",
+                    "code": "smm",
+                    "children": []
+                },
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 13.5,
+                    "title": "Copywriter",
+                    "code": "copywriter",
+                    "children": []
+                }
+            ]
         },
         {
             "id": 0,
             "index": 1,
             "number": 14.0,
-            "title": "Construction and building",
+            "title": "Chef",
+            "code": "chef",
             "children": []
         },
         {
             "id": 0,
             "index": 1,
             "number": 15.0,
-            "title": "Security, uniformed and protective services",
-            "children": []
+            "title": "Service",
+            "code": "service",
+            "children": [
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 15.1,
+                    "title": "Mechanic",
+                    "code": "mechanic",
+                    "children": []
+                },
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 15.2,
+                    "title": "Technician",
+                    "code": "technician",
+                    "children": []
+                },
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 15.3,
+                    "title": "Electricity",
+                    "code": "electricity",
+                    "children": []
+                },
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 15.4,
+                    "title": "Tour manager",
+                    "code": "tour_manager",
+                    "children": []
+                },
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 15.5,
+                    "title": "Protection",
+                    "code": "protection",
+                    "children": []
+                },
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 15.6,
+                    "title": "Locksmith",
+                    "code": "locksmith",
+                    "children": []
+                },
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 15.7,
+                    "title": "Welder",
+                    "code": "welder",
+                    "children": []
+                },        {
+                    "id": 0,
+                    "index": 2,
+                    "number": 15.8,
+                    "title": "Carpenter",
+                    "code": "carpenter",
+                    "children": []
+                }
+            ]
         },
         {
             "id": 0,
             "index": 1,
             "number": 16.0,
-            "title": "Science, mathematics and statistics",
-            "children": []
-        },
-        {
-            "id": 0,
-            "index": 1,
-            "number": 17.0,
-            "title": "Manufacturing and production",
-            "children": []
+            "title": "Showman",
+            "code": "showman",
+            "children": [
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 16.1,
+                    "title": "Musician",
+                    "code": "musician",
+                    "children": []
+                },
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 16.2,
+                    "title": "Singer",
+                    "code": "singer",
+                    "children": []
+                },
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 16.3,
+                    "title": "Dancer",
+                    "code": "dancer",
+                    "children": []
+                }
+            ]
         }
     ],
     "countries": [
@@ -356,29 +547,29 @@
             "id": 1,
             "name": "Ruslana",
             "surname": "Qambayeva",
-            "title": "Student"
+            "employment": "Student"
         },    {
             "id": 2,
             "name": "Firuza",
             "surname": "Agayeva",
-            "title": "Professional Model"
+            "employment": "Professional Model"
         },    {
             "id": 3,
             "name": "Hakhan",
             "surname": "Erol",
-            "title": "Financial Advisor"
+            "employment": "financial_dvisor"
         },    {
             "id": 4,
             "name": "Samira",
             "surname": "Aliyeva",
-            "title": "Sales Representative"
+            "employment": "seller"
         }
     ],
     "offers": [
         {
             "id": 2,
             "employer_id": 2,
-            "title": "Head of Data Technology",
+            "employment": "head_it",
             "ceo": "GOED.MMC",
             "video": true,
             "description": "Leads the full product management lifecycle of a new suite of technologies and oversees the team responsible for delivering it. This high-profile role involves working with business leaders and partners across the organization, including C-level executives. Strong business and technology experience in the finance and/or retail domain is essential for success. Oversees the data technology roadmaps of assets and drives the adoption of cutting-edge technologies across the Group, aligned with the enablement mission of the PASHA Holding Data Office. Utilizes experience in Agile organizations to lead, develop, and inspire an Agile delivery team of data engineers, architects, devops engineers’ data operations engineers and data analysts. Foster a culture of innovation and excellence. Mentors and develops data technology team members. Develops and manages the Holding’s data technology roadmap, including requirements, resources, time, cost, quality, risks, and communications, ensuring alignment with the strategic objectives of companies within the Group"
@@ -386,7 +577,7 @@
         {
             "id": 3,
             "employer_id": 3,
-            "title": "Graphics Designer",
+            "employment": "graphic_designer",
             "ceo": "MOOI.MMC",
             "video": true,
             "description": "Design and create engaging graphics for various social media platforms (Facebook, Instagram, Twitter, LinkedIn, etc.). Develop and maintain a consistent visual style and brand identity across all social media channels. Collaborate with the marketing team to create graphics for campaigns, promotions, and other marketing materials. Stay up-to-date with the latest design trends and social media best practices. Manage multiple projects simultaneously while meeting deadlines. Create stories for social media. Provide creative input and contribute ideas for social media strategies and campaigns."
@@ -394,7 +585,7 @@
         {
             "id": 4,
             "employer_id": 3,
-            "title": "Chef",
+            "employment": "chef",
             "ceo": "MOOI.MMC",
             "video": true,
             "description": "Prepare existing or future guest food orders under the direct supervision of a supervisor or independently. To ensure the quality of the prepared food, that they meet the required standards. To start work, place ready-made semi-finished products, necessary tools and equipment in the designated work area. Check the cleanliness of all tools, equipment and supplies. Ensuring everything is up to standard. Controlling the meal preparation schedule, prioritizing and executing important tasks during the day. Informing the direct supervisor about the lack of necessary food and supplies for the daily preparation of food. Products and their duration must be constantly monitored. To ensure that the prepared food is of high quality and healthy, and that it meets the required hygienic standards."
@@ -404,34 +595,34 @@
         {
             "id": 1,
             "user": "Avery Davis",
-            "title": "Nurse"
+            "employment": "nurse"
         },
         {
             "id": 2,
             "user": "Handyman Service",
-            "title": "Welder"
+            "employment": "welder"
         },
         {
             "id": 3,
             "user": "Really Great Site",
-            "title": "Carpenter"
+            "employment": "carpenter"
         }
     ],
     "talents": [
         {
             "id": 1,
             "user": "Drum Beats",
-            "title": "Drummer"
+            "employment": "musician"
         },
         {
             "id": 2,
             "user": "Olivia Wilson",
-            "title": "Dancer"
+            "employment": "dancer"
         },
         {
             "id": 3,
             "user": "HIP HOP DANCERS",
-            "title": "Dance group"
+            "employment": "dancer"
         }
     ]
 }
