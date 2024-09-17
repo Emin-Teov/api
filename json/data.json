@@ -501,8 +501,24 @@
                     "title": "Dancer",
                     "code": "dancer",
                     "children": []
+                },
+                {
+                    "id": 0,
+                    "index": 2,
+                    "number": 16.4,
+                    "title": "Professional Model",
+                    "code": "dancer",
+                    "children": []
                 }
             ]
+        },
+        {
+            "id": 0,
+            "index": 1,
+            "number": 17.0,
+            "title": "Student",
+            "code": "student",
+            "children": []
         }
     ],
     "countries": [
@@ -547,12 +563,12 @@
             "id": 1,
             "name": "Ruslana",
             "surname": "Qambayeva",
-            "employment": "Student"
+            "employment": "student"
         },    {
             "id": 2,
             "name": "Firuza",
             "surname": "Agayeva",
-            "employment": "Professional Model"
+            "employment": "professional_model"
         },    {
             "id": 3,
             "name": "Hakhan",
