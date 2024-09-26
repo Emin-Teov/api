@@ -563,21 +563,25 @@
             "id": 1,
             "name": "Ruslana",
             "surname": "Qambayeva",
+            "email": "@",
             "employment": "student"
         },    {
             "id": 2,
             "name": "Firuza",
             "surname": "Agayeva",
+            "email": "@",
             "employment": "professional_model"
         },    {
             "id": 3,
             "name": "Hakhan",
             "surname": "Erol",
+            "email": "@",
             "employment": "financial_advisor"
         },    {
             "id": 4,
             "name": "Samira",
             "surname": "Aliyeva",
+            "email": "@",
             "employment": "seller"
         }
     ],
@@ -585,25 +589,25 @@
         {
             "id": 2,
             "employer_id": 2,
+            "email": "@",
             "employment": "head_it",
             "ceo": "GOED.MMC",
-            "video": true,
             "description": "Leads the full product management lifecycle of a new suite of technologies and oversees the team responsible for delivering it. This high-profile role involves working with business leaders and partners across the organization, including C-level executives. Strong business and technology experience in the finance and/or retail domain is essential for success. Oversees the data technology roadmaps of assets and drives the adoption of cutting-edge technologies across the Group, aligned with the enablement mission of the PASHA Holding Data Office. Utilizes experience in Agile organizations to lead, develop, and inspire an Agile delivery team of data engineers, architects, devops engineers’ data operations engineers and data analysts. Foster a culture of innovation and excellence. Mentors and develops data technology team members. Develops and manages the Holding’s data technology roadmap, including requirements, resources, time, cost, quality, risks, and communications, ensuring alignment with the strategic objectives of companies within the Group"
         },
         {
             "id": 3,
             "employer_id": 3,
+            "email": "@",
             "employment": "graphic_designer",
             "ceo": "MOOI.MMC",
-            "video": true,
             "description": "Design and create engaging graphics for various social media platforms (Facebook, Instagram, Twitter, LinkedIn, etc.). Develop and maintain a consistent visual style and brand identity across all social media channels. Collaborate with the marketing team to create graphics for campaigns, promotions, and other marketing materials. Stay up-to-date with the latest design trends and social media best practices. Manage multiple projects simultaneously while meeting deadlines. Create stories for social media. Provide creative input and contribute ideas for social media strategies and campaigns."
         },
         {
             "id": 4,
             "employer_id": 3,
+            "email": "@",
             "employment": "chef",
             "ceo": "MOOI.MMC",
-            "video": true,
             "description": "Prepare existing or future guest food orders under the direct supervision of a supervisor or independently. To ensure the quality of the prepared food, that they meet the required standards. To start work, place ready-made semi-finished products, necessary tools and equipment in the designated work area. Check the cleanliness of all tools, equipment and supplies. Ensuring everything is up to standard. Controlling the meal preparation schedule, prioritizing and executing important tasks during the day. Informing the direct supervisor about the lack of necessary food and supplies for the daily preparation of food. Products and their duration must be constantly monitored. To ensure that the prepared food is of high quality and healthy, and that it meets the required hygienic standards."
         }
     ],
@@ -611,16 +615,19 @@
         {
             "id": 1,
             "user": "Avery Davis",
+            "email": "@",
             "employment": "nurse"
         },
         {
             "id": 2,
             "user": "Handyman Service",
+            "email": "@",
             "employment": "welder"
         },
         {
             "id": 3,
             "user": "Really Great Site",
+            "email": "@",
             "employment": "carpenter"
         }
     ],
@@ -628,16 +635,19 @@
         {
             "id": 1,
             "user": "Drum Beats",
+            "email": "@",
             "employment": "musician"
         },
         {
             "id": 2,
             "user": "Olivia Wilson",
+            "email": "@",
             "employment": "dancer"
         },
         {
             "id": 3,
             "user": "HIP HOP DANCERS",
+            "email": "@",
             "employment": "dancer"
         }
     ]
