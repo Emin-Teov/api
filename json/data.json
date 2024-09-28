@@ -3,7 +3,7 @@
     "categories": [
         {
             "id": 0,
-            "index_id": 1,
+            "indexId": 1,
             "number": 1.0,
             "title": "Administration, business and management",
             "code": "admin",
@@ -11,14 +11,14 @@
         },
         {
             "id": 0,
-            "index_id": 1,
+            "indexId": 1,
             "number": 2.0,
             "title": "Financial services",
             "code": "financial",
             "children": [
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 2.1,
                     "title": "Loan officer",
                     "code": "loan",
@@ -26,7 +26,7 @@
                 },            
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 2.2,
                     "title": "Operative",
                     "code": "operative",
@@ -34,7 +34,7 @@
                 },            
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 2.3,
                     "title": "Branch Manager",
                     "code": "branch",
@@ -42,7 +42,7 @@
                 },            
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 2.4,
                     "title": "External control",
                     "code": "external_control",
@@ -50,7 +50,7 @@
                 },            
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 2.5,
                     "title": "Leasing",
                     "code": "leasing",
@@ -58,7 +58,7 @@
                 },            
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 2.6,
                     "title": "Problem loans",
                     "code": "problem_loans",
@@ -66,7 +66,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 2.7,
                     "title": "Financial Advisor",
                     "code": "financial_dvisor",
@@ -76,7 +76,7 @@
         },
         {
             "id": 0,
-            "index_id": 1,
+            "indexId": 1,
             "number": 3.0,
             "title": "Retail and customer services",
             "code": "retail_customer",
@@ -84,7 +84,7 @@
         },
         {
             "id": 0,
-            "index_id": 1,
+            "indexId": 1,
             "number": 4.0,
             "title": "Engineering",
             "code": "engineering",
@@ -92,14 +92,14 @@
         },
         {
             "id": 0,
-            "index_id": 1,
+            "indexId": 1,
             "number": 5.0,
             "title": "Computing and IT",
             "code": "computing",
             "children": [
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 5.1,
                     "title": "Web development",
                     "code": "web_development",
@@ -107,7 +107,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 5.2,
                     "title": "Mobile development",
                     "code": "mobile_development",
@@ -115,7 +115,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 5.3,
                     "title": "Network",
                     "code": "network",
@@ -123,7 +123,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 5.4,
                     "title": "Development",
                     "code": "development",
@@ -131,7 +131,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 5.5,
                     "title": "Help desk",
                     "code": "help_desk",
@@ -139,7 +139,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 5.6,
                     "title": "IT security",
                     "code": "it_security",
@@ -147,7 +147,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 5.7,
                     "title": "System administrator",
                     "code": "system_administrator",
@@ -155,7 +155,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 5.8,
                     "title": "QA tester",
                     "code": "qa_tester",
@@ -163,7 +163,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 5.9,
                     "title": "Head of IT",
                     "code": "head_it",
@@ -173,7 +173,7 @@
         },
         {
             "id": 0,
-            "index_id": 1,
+            "indexId": 1,
             "number": 6.0,
             "title": "Marketing and advertising, print and publishing",
             "code": "marketing_advertising_print",
@@ -181,14 +181,14 @@
         },
         {
             "id": 0,
-            "index_id": 1,
+            "indexId": 1,
             "number": 7.0,
             "title": "Transport, distribution and logistics",
             "code": "transport_distribution_logistics",
             "children": [
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 7.1,
                     "title": "Driver",
                     "code": "driver",
@@ -196,7 +196,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 7.2,
                     "title": "Warehouseman",
                     "code": "warehouseman",
@@ -204,7 +204,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 7.3,
                     "title": "Logistics",
                     "code": "logistics",
@@ -212,7 +212,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 7.4,
                     "title": "Courier",
                     "code": "courier",
@@ -222,14 +222,14 @@
         },
         {
             "id": 0,
-            "index_id": 1,
+            "indexId": 1,
             "number": 8.0,
             "title": "Healthcare",
             "code": "healthcare",
             "children": [
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 8.1,
                     "title": "Doctor",
                     "code": "doctor",
@@ -237,7 +237,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 8.2,
                     "title": "Pharmacist",
                     "code": "pharmacist",
@@ -245,7 +245,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 8.3,
                     "title": "Nurse",
                     "code": "nurse",
@@ -253,7 +253,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 8.4,
                     "title": "Psychologist",
                     "code": "psychologist",
@@ -261,7 +261,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 8.5,
                     "title": "Dentist",
                     "code": "dentist",
@@ -269,7 +269,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 8.6,
                     "title": "Laboratory assistant",
                     "code": "laboratory_assistant",
@@ -277,7 +277,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 8.7,
                     "title": "Medicine brother",
                     "code": "medicine_brother",
@@ -285,7 +285,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 8.8,
                     "title": "Medical representative",
                     "code": "medical_representative",
@@ -295,7 +295,7 @@
         },
         {
             "id": 0,
-            "index_id": 1,
+            "indexId": 1,
             "number": 9.0,
             "title": "Education and training",
             "code": "education_training",
@@ -303,7 +303,7 @@
         },
         {
             "id": 0,
-            "index_id": 1,
+            "indexId": 1,
             "number": 10.0,
             "title": "Legal and court services",
             "code": "legal_court",
@@ -311,7 +311,7 @@
         },
         {
             "id": 0,
-            "index_id": 1,
+            "indexId": 1,
             "number": 11.0,
             "title": "Facilities and property services",
             "code": "facilities_property",
@@ -319,14 +319,14 @@
         },
         {
             "id": 0,
-            "index_id": 1,
+            "indexId": 1,
             "number": 12.0,
             "title": "Design, arts and crafts",
             "code": "design_arts_crafts",
             "children": [
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 12.1,
                     "title": "Graphic designer",
                     "code": "graphic_designer",
@@ -334,7 +334,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 12.2,
                     "title": "Interior designer",
                     "code": "interior_designer",
@@ -344,14 +344,14 @@
         },
         {
             "id": 0,
-            "index_id": 1,
+            "indexId": 1,
             "number": 13.0,
             "title": "Marketing and Sales",
             "code": "marketing_sales",
             "children": [
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 13.1,
                     "title": "Content manager",
                     "code": "content_manager",
@@ -359,7 +359,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 13.2,
                     "title": "Seller",
                     "code": "seller",
@@ -367,7 +367,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 13.3,
                     "title": "Sales representative",
                     "code": "sales_representative",
@@ -375,7 +375,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 13.4,
                     "title": "SMM",
                     "code": "smm",
@@ -383,7 +383,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 13.5,
                     "title": "Copywriter",
                     "code": "copywriter",
@@ -393,7 +393,7 @@
         },
         {
             "id": 0,
-            "index_id": 1,
+            "indexId": 1,
             "number": 14.0,
             "title": "Chef",
             "code": "chef",
@@ -401,14 +401,14 @@
         },
         {
             "id": 0,
-            "index_id": 1,
+            "indexId": 1,
             "number": 15.0,
             "title": "Service",
             "code": "service",
             "children": [
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 15.1,
                     "title": "Mechanic",
                     "code": "mechanic",
@@ -416,7 +416,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 15.2,
                     "title": "Technician",
                     "code": "technician",
@@ -424,7 +424,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 15.3,
                     "title": "Electricity",
                     "code": "electricity",
@@ -432,7 +432,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 15.4,
                     "title": "Tour manager",
                     "code": "tour_manager",
@@ -440,7 +440,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 15.5,
                     "title": "Protection",
                     "code": "protection",
@@ -448,7 +448,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 15.6,
                     "title": "Locksmith",
                     "code": "locksmith",
@@ -456,14 +456,14 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 15.7,
                     "title": "Welder",
                     "code": "welder",
                     "children": []
                 },        {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 15.8,
                     "title": "Carpenter",
                     "code": "carpenter",
@@ -473,14 +473,14 @@
         },
         {
             "id": 0,
-            "index_id": 1,
+            "indexId": 1,
             "number": 16.0,
             "title": "Showman",
             "code": "showman",
             "children": [
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 16.1,
                     "title": "Musician",
                     "code": "musician",
@@ -488,7 +488,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 16.2,
                     "title": "Singer",
                     "code": "singer",
@@ -496,7 +496,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 16.3,
                     "title": "Dancer",
                     "code": "dancer",
@@ -504,7 +504,7 @@
                 },
                 {
                     "id": 0,
-                    "index_id": 2,
+                    "indexId": 2,
                     "number": 16.4,
                     "title": "Professional model",
                     "code": "professional_model",
@@ -514,7 +514,7 @@
         },
         {
             "id": 0,
-            "index_id": 1,
+            "indexId": 1,
             "number": 17.0,
             "title": "Student",
             "code": "student",
@@ -588,7 +588,7 @@
     "offers": [
         {
             "id": 2,
-            "employer_id": 2,
+            "employerId": 2,
             "email": "@",
             "employment": "head_it",
             "ceo": "GOED.MMC",
@@ -596,7 +596,7 @@
         },
         {
             "id": 3,
-            "employer_id": 3,
+            "employerId": 3,
             "email": "@",
             "employment": "graphic_designer",
             "ceo": "MOOI.MMC",
@@ -604,7 +604,7 @@
         },
         {
             "id": 4,
-            "employer_id": 3,
+            "employerId": 3,
             "email": "@",
             "employment": "chef",
             "ceo": "MOOI.MMC",
