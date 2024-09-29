@@ -558,7 +558,7 @@
         "title": "Uzbekistan"
         }
     ],
-    "job_seekers": [
+    "jobSeekers": [
         {
             "id": 1,
             "name": "Ruslana",
@@ -588,7 +588,7 @@
     "offers": [
         {
             "id": 2,
-            "employerId": 2,
+            "employer": 2,
             "email": "@",
             "employment": "head_it",
             "ceo": "GOED.MMC",
@@ -596,7 +596,7 @@
         },
         {
             "id": 3,
-            "employerId": 3,
+            "employer": 3,
             "email": "@",
             "employment": "graphic_designer",
             "ceo": "MOOI.MMC",
@@ -604,7 +604,7 @@
         },
         {
             "id": 4,
-            "employerId": 3,
+            "employer": 3,
             "email": "@",
             "employment": "chef",
             "ceo": "MOOI.MMC",
